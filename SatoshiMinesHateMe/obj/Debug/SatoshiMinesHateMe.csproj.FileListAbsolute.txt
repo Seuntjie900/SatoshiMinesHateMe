@@ -1,0 +1,9 @@
+C:\Users\Çağrı\Documents\Visual Studio 2013\Projects\SatoshiMinesHateMe\SatoshiMinesHateMe\bin\Debug\SatoshiMinesHateMe.exe
+C:\Users\Çağrı\Documents\Visual Studio 2013\Projects\SatoshiMinesHateMe\SatoshiMinesHateMe\bin\Debug\SatoshiMinesHateMe.pdb
+C:\Users\Çağrı\Documents\Visual Studio 2013\Projects\SatoshiMinesHateMe\SatoshiMinesHateMe\obj\Debug\SatoshiMinesHateMe.csprojResolveAssemblyReference.cache
+C:\Users\Çağrı\Documents\Visual Studio 2013\Projects\SatoshiMinesHateMe\SatoshiMinesHateMe\obj\Debug\SatoshiMinesHateMe.Form1.resources
+C:\Users\Çağrı\Documents\Visual Studio 2013\Projects\SatoshiMinesHateMe\SatoshiMinesHateMe\obj\Debug\SatoshiMinesHateMe.Properties.Resources.resources
+C:\Users\Çağrı\Documents\Visual Studio 2013\Projects\SatoshiMinesHateMe\SatoshiMinesHateMe\obj\Debug\SatoshiMinesHateMe.csproj.GenerateResource.Cache
+C:\Users\Çağrı\Documents\Visual Studio 2013\Projects\SatoshiMinesHateMe\SatoshiMinesHateMe\obj\Debug\SatoshiMinesHateMe.exe
+C:\Users\Çağrı\Documents\Visual Studio 2013\Projects\SatoshiMinesHateMe\SatoshiMinesHateMe\obj\Debug\SatoshiMinesHateMe.pdb
+C:\Users\Çağrı\Documents\Visual Studio 2013\Projects\SatoshiMinesHateMe\SatoshiMinesHateMe\bin\Debug\SatoshiMinesHateMe.exe.config
